@@ -1,0 +1,36 @@
+.inputcontainer{
+    width: 50%;
+    height: 150%;
+
+    
+    button{
+        width: 20%;
+        padding: 3px 2px;
+        margin: 5% 0;
+        margin-left: 10px;
+        background-color:white;
+        border-radius: 10px;
+        border: solid black;
+    }
+    
+    textarea{
+        font-family: 'Tenali Ramakrishna', sans-serif;
+        font-size: large;
+        padding: 2%;
+        width: 75%;
+        display: flex;
+        justify-content: left;
+        resize: none;
+        background-color:white;
+        border-radius: 10px;
+        border: solid black;
+        outline: none;
+    } 
+    
+    textarea::placeholder {
+        font-size: large;
+    }
+}
+  
+
+

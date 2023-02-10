@@ -1,0 +1,33 @@
+.App {
+  text-align: center;
+
+
+  h1{
+    font-family: 'Righteous', cursive;
+    padding: 2% 0;
+    margin: 2% 10%;
+    background-color: white;
+    border: solid black;
+    border-radius: 15px;
+  }
+  .container{
+    margin: 2% 10%;
+    display: flex;
+    flex-wrap: wrap;
+    border: #61dafb;
+  }
+}
+
+
+h2{
+  font-family: 'Alef', sans-serif;
+  width: 25%;
+  padding: 3px 2px;
+  text-align: center;
+  border: solid black;
+  border-radius: 10px;
+  background-color: white;
+}
+
+
+

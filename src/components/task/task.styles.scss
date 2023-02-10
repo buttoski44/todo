@@ -1,0 +1,20 @@
+.single-list{
+    text-align: left;
+    margin-top: 5%;
+    background-color:white;
+    border-bottom: solid black;
+    border-width: 1px;
+
+    .todo-item{
+      padding: 5px;
+      font-family: 'Tenali Ramakrishna', sans-serif;
+      font-size: large;
+      font-weight: 400;
+    }
+    
+    .logo{
+      margin: 5px;
+      padding: 6px;
+      border-right: black;
+    }
+}
